@@ -3,7 +3,7 @@
   height="45"
   width="45" />, I'm Tobias Nagata</h1>
 
-<img align="right" src="https://tenor.com/view/tkthao219-bubududu-peach-goma-gif-24895079.gif" width='200'/>
+<img align="right" src="https://c.tenor.com/7oC5d_Q0GfcAAAAi/chillhop-lofi.gif" width='200'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiasnagata&label=Profile%20views&color=0e75b6&style=flat" alt="tobiasnagata" /> </p>
 
@@ -12,7 +12,7 @@
 
 an enthusiastic software developer who interest in web development and machine learning. I comes from informatics engineering bachelor degree and always want to improve skills by practice. I also love to network, so I'm very happy if you would connect with me.
 
-## 📈 Github Stats
+## 🔥 Github Stats
 
 <a href="https://github.com/tobiasnagata">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobiasnagata&show_icons=true&theme=radical&title_color=ff3068&include_all_commits=true&count_private=true"/>
